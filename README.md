@@ -84,8 +84,10 @@ The game features `4 types of weapons`, each with unique attack modes and bullet
 ## Installation and Play
 
 1. Clone the repository to your local machine.
-2. Open the project in Unity.
-3. Build and run the game within the Unity editor.
+2. *Download the required files from [[this link]](https://drive.google.com/file/d/1S4NzYfwEQgazKPcKQI_F_OMO-q_ifaKW/view?usp=sharing).*
+3. *Unzip the downloaded files into the same directory as the `.sln` folder.*
+4. Open the project in Unity.
+5. Build and run the game within the Unity editor.
 
 Feel free to explore the game and modify it as needed to enhance or add features!
 
