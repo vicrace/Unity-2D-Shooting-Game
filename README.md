@@ -8,7 +8,7 @@ The game will start with a female ninja character trapped in a box-shaped enviro
 
 <p>
   <img src="img/main.png" alt="main" width="45%" style="display:inline-block;">
-  <img src="img/scoreboard.png" alt="scoreboard" width="45%" style="display:inline-block;">
+  <img src="img/scoreboard.png" alt="scoreboard" width="50%" style="display:inline-block;">
   <img src="img/respawn.png" alt="respawn" width="45%" style="display:inline-block;">
 </p>
 
@@ -43,7 +43,7 @@ There are `4 level in this game`, each level has a different landscape and diffe
 There are `4 type of enemy` in this game, each have different attack pattern and moving pattern.
 
 <p>
-  <img src="img/enemies.png" alt="respawn" width="45%" style="display:inline-block;">
+  <img src="img/enemies.png" alt="respawn" width="75%" style="display:inline-block;">
 </p>
 
 - **Type 1:** Patrolling enemy with horizontal direction that shoots bullets. Rewards 10 coins per defeat.
@@ -56,7 +56,7 @@ There are `4 type of enemy` in this game, each have different attack pattern and
 The game features `4 types of weapons`, each with unique attack modes and bullet patterns, as illustrated in the figure. Players can obtain special weapons through the slot machine mechanism. These special weapons will be retained until the player spins the slot machine again. If the player spins the slot machine, the weapon may switch to a new one based on the spin results, or revert to the default weapon if a buff is obtained.
 
 <p>
-  <img src="img/bullet.png" alt="respawn" width="45%" style="display:inline-block;">
+  <img src="img/bullet.png" alt="respawn" width="75%" style="display:inline-block;">
 </p>
 
 - **Normal Weapon:** A pistol with a single bullet per shot.
